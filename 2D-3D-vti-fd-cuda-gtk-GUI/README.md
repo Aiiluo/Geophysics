@@ -8,6 +8,8 @@ Finite Difference Forward Simulation Software for 2D 3D VTI Media Based on GPU A
 * cuda7.5+
 * gtk+-2.0 or gtk+-3.0
 
+## You can get the whole directory if there are some file missing.
+
 ## Compiled and Run
 * Makefile
 ```shell
