@@ -49,8 +49,8 @@ Geophysical data processing methods, Program code implementation of geophysical 
 ## Others
 * utils （tools function)
 * mix (mix programming, mix-mpi+cuda meas mix mpi and cuda)
-* CWP (Seismic Unix:<http://www.seismicunix.com/w/Main_Page>)
-* Madagascar (GitHub src Link:<https://github.com/ahay/src>)
+* CWP (Seismic Unix:<http://www.seismicunix.com/w/Main_Page>), in CWP directory.
+* Madagascar (GitHub src Link:<https://github.com/ahay/src>), in Madagascar directory.
 
 ## Detail in Each README.md in Each Directory
 
