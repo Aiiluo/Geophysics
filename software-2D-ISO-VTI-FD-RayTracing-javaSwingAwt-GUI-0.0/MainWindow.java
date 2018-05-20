@@ -4,7 +4,7 @@
  *       Author: Rong Tao
  *     Location: UPC
  *         Time: 2017.04
- *    Modify by: Rong Tao
+ *       Modify: 2018.02 
  */
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -172,7 +172,7 @@ class myJFrame extends JFrame{
     myJFrame(String myJFrameName){
 
         setTitle(myJFrameName);
-        setSize(850, 600);
+        setSize(850, 700);
 				
 				add(new BackgroundPanel((
                 new ImageIcon("picture/BackGround/background5.png")).getImage()));

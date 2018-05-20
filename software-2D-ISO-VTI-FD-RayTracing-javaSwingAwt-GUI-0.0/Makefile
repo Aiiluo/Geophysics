@@ -18,6 +18,6 @@ ALL:
 	$(JAVAC) MainWindow.java $(WARNING)
 	$(JAVAH) -d ./lib/ src.seismic.RungeKutta
 	$(GCC) -shared -fpic -o $(OLIB) $(IJAVAINCLUDE) $(IJAVAINCLUDElinux) $(CFILE)
-	$(JAVA) -Djava.library.path=$(LIBPATH) $(MAINCLASS) 
+	$(JAVA) -Djava.library.path=$(LIBPATH) $(MAINCLASS)  &
 clean:
 	./~/clean.sh
