@@ -15,3 +15,5 @@ VERSION
 * You can find it in sfkine2dvti directory. Result as follows:
 * 
 ![](sfkine2dvti/snap.jpg)
+
+### You can get the whole directory in ZIP file if there is some file missing in directory.
