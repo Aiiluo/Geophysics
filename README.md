@@ -61,6 +61,9 @@ Geophysical data processing methods, Program code implementation of geophysical 
 * gcc, nvcc, mpicc, javac
 ### Software(some)
 * gcc, cuda, mpich/openmpi, openmp, Qt-Creater, gtk+-2.0/3.0, JDK, make/cmake
+## GUI Software in This Project
+### Software 1:
 * in directory "software-2D-ISO-VTI-FD-RayTracing-javaSwingAwt-GUI-0.0" is a software programming with java&c, you can see the detail in the README file in this directory.
-* in dirctory "
+### Software 2:
+* in dirctory "2D-3D-vti-fd-cuda-gtk-GUI" is a software programming with c+cuda+gtk, you can check detail in README file in that directory.
 
